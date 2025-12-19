@@ -1,4 +1,4 @@
-# Java LAB 1
+# Java LAB 2
 
 ## Course Contents:
 
