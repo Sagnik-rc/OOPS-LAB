@@ -1,4 +1,4 @@
-# Java LAB 2
+# Java LAB 3
 
 ## Course Contents:
 
@@ -97,3 +97,4 @@ Display area of rectangle
 
 ## ✔️ Status
 **Lab-02 completed successfully on 12.12.2025.**
+
